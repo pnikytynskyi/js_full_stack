@@ -1,0 +1,8 @@
+{
+  "ignore": ["dist/*", "src/*"],
+  "env": {
+    "MONGO_USER": "mongo_user",
+    "MONGO_PASSWORD": "5MdZrU63dIkqLvgn",
+    "MONGO_DB": "event-react"
+  }
+}
